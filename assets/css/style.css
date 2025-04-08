@@ -63,8 +63,7 @@ html, body {
 .gallery-item img {
     width: 400px;
     height: 500px;
-    object-fit: cover;
-    transform: scale(2);
+    object-fit: contain;
 }
 
 
